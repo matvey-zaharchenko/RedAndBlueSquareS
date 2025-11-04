@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="even_color">#FF0000</color>
+    <color name="odd_color">#0000FF</color>
+    <color name="background">#FFF5F5F5</color>
+    <color name="text_color">#FFF5F5F5</color>
+    <color name="status_bar_purple">#926EAE</color>
+    <color name="button">#926EAE</color>
+</resources>
